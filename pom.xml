@@ -426,8 +426,8 @@
         <module>contrib/dtest</module>
         <module>contrib/rulecheck-maven-plugin</module>
         <module>sample</module>
+        <module>docs</module>
         <module>download</module>
-        <!-- docs module is activated in profile 'default-with-docs' -->
     </modules>
 
     <profiles>
